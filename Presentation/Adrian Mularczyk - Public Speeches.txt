@@ -1,0 +1,108 @@
+Przygotowanie do wystąpień publicznych / Wystąpienia publiczne
+
+--
+Ostatnio byłem na warsztatach DevStyles Speakers prowadzonych przez Maćka Aniserowicza na których zdobywałem widzę o wystąpieniach publicznych i jak się do nich przygotować. Dzisiaj postaram się z wami podzielić tym, czego się nauczyłem.
+
+--
+Po co występować?
+
+--
+- Samo programowanie może się nudzić, a dzięki wystąpieniom możemy zyskać nową motywację do pracy
+- Możemy polepszyć naszą pewność siebie
+- Możemy stać się bardziej rozpoznawalni
+- Możemy zacząć być postrzegani jako eksperci w jakiejś dziedzinie
+- Może nam się udać dzięki temu wynegocjować podwyżkę
+- Możemy dawać wartość i pomagać innym się rozwijać
+
+--
+Jednakże należy pamiętać, aby szanować czas widzów. Więc powinniśmy zrobić wszystko, aby go nie zmarnować. Ludzie wybrali przyjście na nasze wystąpienie dobrowolnie, zamiast robić coś innego w tym czasie, dlatego dobrze byłoby, aby nasza prezentacja dała im jakąś wartość i pozwoliła się czegoś nauczyć.
+
+--
+W związku z tym należy pamiętać, że ludzie zapomną od razu jakieś 80%,
+A do końca dnia kolejne 10-15%,
+W głownie zostaną im ogólne wrażenia.
+
+--
+Należy pamiętać, że wystąpienia nie są po to, aby ludzi czegoś nauczyć,
+tylko co najwyżej zainspirować, zachęcić do refleksji lub działania.
+
+--
+Temat wystąpienia
+
+--
+- Nie należy mówić o czymś, na czym się kompletnie nie znamy. Jednakże można mówić o czymś, czegoś się nauczyliśmy lub przedstawić nasz punkt widzenia na jakiś temat.
+- Nie należy mówić o czymś, co nas nudzi, bo to może spowodować w nas zakorzenienie, że wystąpienia wiążą się z czymś nudnym.
+- Całą naszą prezentację powinno dać się podsumować w jednym zdaniu.
+- Powinno mieć maksykamalnie 3 wartości, które chce się przekazać słuchaczom, bo więcej oni i tak nie zapamiętają.
+- Jaką zmianę, chcemy, aby nasza prezentacja spowodowała? Czy chcemy przekonać ludzi do używania jakiegoś narzędzia? Pokazać rozwiązanie jakiegoś problemu? A może dać przestrogę, aby nie popełnili takiego samego błędu jak my?
+- Nasza prezentacja powinna mieć jakiś cel.
+
+--
+- Przygotowując prezentację należy zrobić sobie listę rzeczy, o których chce się wspomnieć podczas prezetancji.
+- Zastanowić się co przy każdym punkcie chciałoby się powiedzieć.
+- A na koniec odpowiedzieć sobie na pytanie, czy gdybyśmy tego nie wiedzieli, to chcielibyśmy o tym posłuchać.
+- Należy jednak pamiętać, że mamy ograniczoną ilość czasu na wystąpienie, więc bardzo często nie da się powiedzieć wszystkiego.
+- Należy skupić się na najważniejszych rzeczach, które chcemy przekazać.
+- I co najważniejsze, to należy zostawić trochę czasu na pytania, bo one mogą się pojawić.
+
+
+
+--
+Przed wystąpieniem
+
+--
+- Wybór tematu - z wystąpieniami jest taki problem, że czasem chciało by się wystąpić, ale ma się to przekonanie, że nie ma się nic ciekawego do powiedzenia. To przekonanie jest jak najbardziej błędne. Nieważne ile ma się lat doświadczenia - każdy w jakimś temacie ma trochę więcej wiedzy on jakiejś grupy osób i ta grupa osób może być zainteresowana posłuchaniem wystąpienia na dany temat. Należy jednak tutaj pamiętać, aby mówić o tym, o czym ma się jakąś wiedzę i zastanowić się, czy gdyby się tej wiedzy nie miało, to chciałoby się o tym posłuchać.
+- Przed dłuższymi wystąpieniami można rozmasować żuchwę i język.
+- Jeśli będzie się chciało pić, to należy mieć przygotowaną odkręconą niegazowaną wodę.
+- Jeśli jest możliwość, to zdobyć informacje o słuchaczach - czy w danym temacie są początkującymi, czy osobami zaawansowami - wtedy może być nam łatwiej dopasować materiał.
+- Ubiór może mieć znaczenie - w zależności od tego czy będziemy występować w t-shirt czy w garniturze, to po prezentacji prawdopodobnie podejdą do nas inne osoby i inna ilość.
+
+--
+Wystąpienie
+
+--
+- Początek
+- Środek
+- Koniec
+
+--
+Początek
+
+--
+Ciało
+
+--
+- Stoimy twardo na nogach, nie kołyszemy się, moża chodzić, ale nie kołysać się z nogi na nogę
+- Mówimy powoli, cały czas oddychając
+- Mówimy wyraźnie i powinniśmy bawić się głosem, aby ludzie nie usnęli od jednostajnego tonu
+- Głowa na miejscu, a nie wysunięta do przodu lub do tyłu
+- Mówimy do sali, a nie do slajdów lub w podłogę
+
+Slajdy
+--
+
+--
+- Slajd o sobie i kilka słów o tym, dlaczego się jest ekspertem, skąd wiedza na dany temat.
+- Słuchacze nie zapamiętają wszystkiego z prezentacji, a w zasadzie to około 90% informacji zapomną już następnego dnia, więc nie należy forsować ich dużo ilością informacji, a skupić się jedynie na najważniejszych kwestiach.
+- Jeśli chcemy mieć jasne tło, to nie powinno być ono białe, tylko co najwyżej szare - podobno na niektórych rzutnikach biały jest tak biały, że aż razi po oczach.
+- Slajdy są dla prowadzącego, nie dla publiczności. Nie musicie dbać o to, aby same slajdy, bez was, też dawały jakąś wartość. One mają wam pomóc przekazać słuchaczą to co chcecie im przekazać.
+- Nie dawać dużo tekstu na slajdy, bo wtedy ludzie zamiast was słuchać, to czytają slajdy. Czasem lepiej jest dać nawet obrazek zamiast tekstu, bo raz że taki obrazek może wyrażać więcej niż 1000 słów, a dwa że nie tracimy wtedy słuchaczy aż tak bardzo, jak w sytuacjach gdy czytają oni slajdy.
+- 
+
+--
+Środek
+
+--
+Koniec
+
+--
+- Ankieta - mało który organizator przygotowuje ankietę, aby prowadzący prelekcję mógł zebrać feedback. Dlatego najlepiej jest mieć własną ankietę.
+- Dziękuję - to slajd dla publiczności, aby mogła podziękować nam za występienie.
+- Pytania - pytania na samym końcu, już po brawach, bo nie każdy jest zainteresowany pytaniami.
+
+
+--
+I to by był ona tylę. Dziękuję.
+
+--
+Pytania
