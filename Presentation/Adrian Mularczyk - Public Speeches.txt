@@ -45,6 +45,42 @@ Temat wystąpienia
 - Należy skupić się na najważniejszych rzeczach, które chcemy przekazać.
 - I co najważniejsze, to należy zostawić trochę czasu na pytania, bo one mogą się pojawić.
 
+--
+Slajdy
+
+--
+- Nie ma limitu slajdów, może być ich tyle ile się chce. Slajdy pozwalają się nie zgubić i powiedziecieć wszystko, co się miało powiedzieć. Jak się czegoś zapomni, to najwyraźniej brakowało slajdów.
+- Slajdy są dla prowadzącego, nie dla publiczności. Nie musicie dbać o to, aby same slajdy, bez was, też dawały jakąś wartość. One mają wam pomóc przekazać słuchaczą to co chcecie im przekazać.
+- Nie dawać dużo tekstu na slajdy, bo wtedy ludzie zamiast was słuchać, to czytają slajdy. Czasem lepiej jest dać nawet obrazek zamiast tekstu, bo raz że taki obrazek może wyrażać więcej niż 1000 słów, a dwa że nie tracimy wtedy słuchaczy aż tak bardzo, jak w sytuacjach gdy czytają oni slajdy.
+- Olać agendę.
+- Slajd o sobie i kilka słów o tym, jakie masz kompetencje, skąd wiedza na dany temat.
+- Slajd 'dziękuję', aby publiczność mogła Ci podziękować za prezentacje, bo bardzo często jest tak, że publiczność nie wie, czy już może klaska czy jeszcze nie.
+- Q&A - po slajdzie 'dziękuję', ponieważ nie każdego interesują pytania i odpowiedzi na nie, ale każdy chce podziękować prelegentowi za wystąpienie.
+- Tło szare, a nie śnieżno białe - podobno na niektórych rzutnikach biały jest tak biały, że aż razi po oczach.
+
+--
+Live coding
+
+--
+Problemy:
+- Ciężko pisać jedną ręką, a trzeba trzymać mikrofon
+- Ciężko pisać i mówić jednocześnie
+- Jak pokazujemy coś w IDE, to bardzo często nic tam nie widać
+- 'Widać tam z tyłu?'
+
+Rozwiązania:
+- Należy mieć przygotowane snippety
+- albo nagrać filmik
+- zamiast IDE, użyć notatnika
+- Wielka czcionka (np. 200%)
+- Mało kodu (tylko to co niezbędne, a resztę mieć przygotowaną i jej nie pokazywać)
+
+
+
+
+
+
+
 
 
 --
