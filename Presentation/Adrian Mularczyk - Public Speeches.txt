@@ -67,6 +67,7 @@ Problemy:
 - Ciężko pisać i mówić jednocześnie
 - Jak pokazujemy coś w IDE, to bardzo często nic tam nie widać
 - 'Widać tam z tyłu?'
+- Mogą wystąpić problemy z internetem
 
 Rozwiązania:
 - Należy mieć przygotowane snippety
@@ -75,23 +76,15 @@ Rozwiązania:
 - Wielka czcionka (np. 200%)
 - Mało kodu (tylko to co niezbędne, a resztę mieć przygotowaną i jej nie pokazywać)
 
-
-
-
-
-
-
-
-
 --
 Przed wystąpieniem
 
 --
-- Wybór tematu - z wystąpieniami jest taki problem, że czasem chciało by się wystąpić, ale ma się to przekonanie, że nie ma się nic ciekawego do powiedzenia. To przekonanie jest jak najbardziej błędne. Nieważne ile ma się lat doświadczenia - każdy w jakimś temacie ma trochę więcej wiedzy on jakiejś grupy osób i ta grupa osób może być zainteresowana posłuchaniem wystąpienia na dany temat. Należy jednak tutaj pamiętać, aby mówić o tym, o czym ma się jakąś wiedzę i zastanowić się, czy gdyby się tej wiedzy nie miało, to chciałoby się o tym posłuchać.
-- Przed dłuższymi wystąpieniami można rozmasować żuchwę i język.
-- Jeśli będzie się chciało pić, to należy mieć przygotowaną odkręconą niegazowaną wodę.
-- Jeśli jest możliwość, to zdobyć informacje o słuchaczach - czy w danym temacie są początkującymi, czy osobami zaawansowami - wtedy może być nam łatwiej dopasować materiał.
+- Przećwiczyć prezentację, najlepiej przed kimś, ale jak się nie da, to chociaż przed samym sobą.
+- Sprawdzić czy mieścimy się w czasie.
 - Ubiór może mieć znaczenie - w zależności od tego czy będziemy występować w t-shirt czy w garniturze, to po prezentacji prawdopodobnie podejdą do nas inne osoby i inna ilość.
+- Rozgrzać 'aparat mowy' - np. rozmasować żuchwę i język.
+- Jeśli będzie się chciało pić, to należy mieć przygotowaną odkręconą niegazowaną wodę.
 
 --
 Wystąpienie
@@ -105,40 +98,36 @@ Wystąpienie
 Początek
 
 --
-Ciało
-
---
 - Stoimy twardo na nogach, nie kołyszemy się, moża chodzić, ale nie kołysać się z nogi na nogę
 - Mówimy powoli, cały czas oddychając
 - Mówimy wyraźnie i powinniśmy bawić się głosem, aby ludzie nie usnęli od jednostajnego tonu
 - Głowa na miejscu, a nie wysunięta do przodu lub do tyłu
 - Mówimy do sali, a nie do slajdów lub w podłogę
 
-Slajdy
---
-
---
-- Slajd o sobie i kilka słów o tym, dlaczego się jest ekspertem, skąd wiedza na dany temat.
-- Słuchacze nie zapamiętają wszystkiego z prezentacji, a w zasadzie to około 90% informacji zapomną już następnego dnia, więc nie należy forsować ich dużo ilością informacji, a skupić się jedynie na najważniejszych kwestiach.
-- Jeśli chcemy mieć jasne tło, to nie powinno być ono białe, tylko co najwyżej szare - podobno na niektórych rzutnikach biały jest tak biały, że aż razi po oczach.
-- Slajdy są dla prowadzącego, nie dla publiczności. Nie musicie dbać o to, aby same slajdy, bez was, też dawały jakąś wartość. One mają wam pomóc przekazać słuchaczą to co chcecie im przekazać.
-- Nie dawać dużo tekstu na slajdy, bo wtedy ludzie zamiast was słuchać, to czytają slajdy. Czasem lepiej jest dać nawet obrazek zamiast tekstu, bo raz że taki obrazek może wyrażać więcej niż 1000 słów, a dwa że nie tracimy wtedy słuchaczy aż tak bardzo, jak w sytuacjach gdy czytają oni slajdy.
-- 
-
 --
 Środek
+
+--
+Jeśli coś pominiemy albo się pomylimy - trudno. Tylko my wiemy co chcieliśmy powiedzieć, publiczność nie musi wiedzieć, że coś poszło nie tak.
+
+--
+- Najważniejsze to przekazać jedną główną myśl.
+- Oraz trzy główne wartości.
 
 --
 Koniec
 
 --
-- Ankieta - mało który organizator przygotowuje ankietę, aby prowadzący prelekcję mógł zebrać feedback. Dlatego najlepiej jest mieć własną ankietę.
+- Lepiej skończyć przed czasem, niż po czasie.
+- Można kilka slajdów pominąć, nic się nie stanie jeśli o czymś nie powiemy.
 - Dziękuję - to slajd dla publiczności, aby mogła podziękować nam za występienie.
 - Pytania - pytania na samym końcu, już po brawach, bo nie każdy jest zainteresowany pytaniami.
 
+--
+I to by był ona tylę. Byłbym wdzięczny za feedback. Możecie go przekazać osobiście lub przesłać mi na emaila: amularczyk@pgs-soft.com
 
 --
-I to by był ona tylę. Dziękuję.
+Dziękuję.
 
 --
-Pytania
+Czy są jakieś pytania?
