@@ -15,7 +15,7 @@ Po co występować?
 - Możemy dawać wartość i pomagać innym się rozwijać
 
 --
-Jednakże należy pamiętać, aby szanować czas widzów. Więc powinniśmy zrobić wszystko, aby go nie zmarnować. Ludzie wybrali przyjście na nasze wystąpienie dobrowolnie, zamiast robić coś innego w tym czasie, dlatego dobrze byłoby, aby nasza prezentacja dała im jakąś wartość i pozwoliła się czegoś nauczyć.
+Jednakże należy pamiętać, aby szanować czas widzów. Więc powinniśmy zrobić wszystko, aby go nie zmarnować. Ludzie wybrali przyjście na nasze wystąpienie dobrowolnie, zamiast robić coś innego w tym czasie, dlatego dobrze byłoby, aby nasza prezentacja dała im jakąś wartość i nie była dla nich stratą czasu.
 
 --
 W związku z tym należy pamiętać, że ludzie zapomną od razu jakieś 80%,
@@ -49,9 +49,13 @@ Temat wystąpienia
 Slajdy
 
 --
-- Nie ma limitu slajdów, może być ich tyle ile się chce. Slajdy pozwalają się nie zgubić i powiedziecieć wszystko, co się miało powiedzieć. Jak się czegoś zapomni, to najwyraźniej brakowało slajdów.
+- Nie ma limitu slajdów, może być ich tyle ile się chce. Slajdy pozwalają się nie zgubić i powiedziecieć wszystko, co się miało powiedzieć.
+- Jak się czegoś zapomni, to najwyraźniej brakowało slajdów.
 - Slajdy są dla prowadzącego, nie dla publiczności. Nie musicie dbać o to, aby same slajdy, bez was, też dawały jakąś wartość. One mają wam pomóc przekazać słuchaczą to co chcecie im przekazać.
-- Nie dawać dużo tekstu na slajdy, bo wtedy ludzie zamiast was słuchać, to czytają slajdy. Czasem lepiej jest dać nawet obrazek zamiast tekstu, bo raz że taki obrazek może wyrażać więcej niż 1000 słów, a dwa że nie tracimy wtedy słuchaczy aż tak bardzo, jak w sytuacjach gdy czytają oni slajdy.
+- Nie dawać dużo tekstu na slajdy, bo wtedy ludzie zamiast was słuchać, to czytają slajdy.
+- Czasem lepiej jest dać nawet obrazek zamiast tekstu, bo raz że taki obrazek może wyrażać więcej niż 1000 słów, a dwa że nie tracimy wtedy słuchaczy aż tak bardzo, jak w sytuacjach gdy czytają oni slajdy.
+
+--
 - Olać agendę.
 - Slajd o sobie i kilka słów o tym, jakie masz kompetencje, skąd wiedza na dany temat.
 - Slajd 'dziękuję', aby publiczność mogła Ci podziękować za prezentacje, bo bardzo często jest tak, że publiczność nie wie, czy już może klaska czy jeszcze nie.
@@ -83,6 +87,8 @@ Przed wystąpieniem
 - Przećwiczyć prezentację, najlepiej przed kimś, ale jak się nie da, to chociaż przed samym sobą.
 - Sprawdzić czy mieścimy się w czasie.
 - Ubiór może mieć znaczenie - w zależności od tego czy będziemy występować w t-shirt czy w garniturze, to po prezentacji prawdopodobnie podejdą do nas inne osoby i inna ilość.
+
+--
 - Rozgrzać 'aparat mowy' - np. rozmasować żuchwę i język.
 - Jeśli będzie się chciało pić, to należy mieć przygotowaną odkręconą niegazowaną wodę.
 
@@ -98,7 +104,7 @@ Wystąpienie
 Początek
 
 --
-- Stoimy twardo na nogach, nie kołyszemy się, moża chodzić, ale nie kołysać się z nogi na nogę
+- Stajemy twardo na nogach, nie kołyszemy się, moża chodzić, ale nie powinniśmy kołysać się z nogi na nogę
 - Mówimy powoli, cały czas oddychając
 - Mówimy wyraźnie i powinniśmy bawić się głosem, aby ludzie nie usnęli od jednostajnego tonu
 - Głowa na miejscu, a nie wysunięta do przodu lub do tyłu
@@ -108,9 +114,7 @@ Początek
 Środek
 
 --
-Jeśli coś pominiemy albo się pomylimy - trudno. Tylko my wiemy co chcieliśmy powiedzieć, publiczność nie musi wiedzieć, że coś poszło nie tak.
-
---
+- Jeśli coś pominiemy albo się pomylimy - trudno. Tylko my wiemy co chcieliśmy powiedzieć, publiczność nie musi wiedzieć, że coś poszło nie tak.
 - Najważniejsze to przekazać jedną główną myśl.
 - Oraz trzy główne wartości.
 
@@ -124,7 +128,7 @@ Koniec
 - Pytania - pytania na samym końcu, już po brawach, bo nie każdy jest zainteresowany pytaniami.
 
 --
-I to by był ona tylę. Byłbym wdzięczny za feedback. Możecie go przekazać osobiście lub przesłać mi na emaila: amularczyk@pgs-soft.com
+I to by był ona tyle z tego co chciałem wam dzisiaj przekazać. Byłbym wdzięczny za feedback. Możecie go przekazać osobiście lub przesłać mi na emaila: amularczyk@pgs-soft.com
 
 --
 Dziękuję.
